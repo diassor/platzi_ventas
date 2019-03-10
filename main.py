@@ -352,4 +352,4 @@ if __name__ == '__main__':
     else:
         print('Invalid command')
 
-# revizar el 19_subclass_main.py  
+# revizar el 19_subclass_main.py
